@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 WIELKIE ZMIANY CHOLERA JASNA
+=======
+<<<<<<< HEAD
+NIE MA WIELKICH ZMAIN JUPIKAJEJA
+=======
+WIELKIE ZMIANY CHOLERA JASNA
+>>>>>>> konflikt1
+>>>>>>> konflikt2
