@@ -1,1 +1,1 @@
-sprawdzian umiejętności z gita
+NIE MA WIELKICH ZMAIN JUPIKAJEJA
