@@ -1,0 +1,1 @@
+sprawdzian umiejętności z gita
