@@ -1,1 +1,1 @@
-sprawdzian umiejętności z gita
+WIELKIE ZMIANY W README
